@@ -1,4 +1,3 @@
-Automation_Practice
 
 Project Name:
 NopCommerceDemo.

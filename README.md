@@ -10,9 +10,15 @@ Project Design:
 Page Object Model (POM)
 
 Covering The following Test Cases :
+
 Register To the System
+
 Login To the System
+
 Logout From the System
+
 Searching For a Product
+
 Add Product To Wishlist
+
 Forget Password Function

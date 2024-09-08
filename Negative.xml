@@ -1,0 +1,22 @@
+<suite name="Negative" verbose="1">
+<test name="NegativeScenario">
+    <classes>
+        <class  name ="RegisterPageTest">
+            <methods>
+            <iclude> name="InvalidRegister"</iclude>
+            <iclude> name="InvalidRegister2"</iclude>
+            </methods>
+        </class>
+        <class  name ="LoginPageTest">
+            <methods>
+            <iclude> name=" InvalidLogin"</iclude>
+            </methods>
+        </class>
+        <class  name ="ForgetPassTestPage">
+            <methods>
+            <iclude> name="ForgetPass"</iclude>
+            </methods>
+        </class>
+    </classes>
+</test>
+        </suite>
